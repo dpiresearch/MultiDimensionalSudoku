@@ -7,6 +7,7 @@ This code validates if a Sudoku solution passed in via a csv file is valid.
 ### Details
 
 Usage: 
+    Run it in your favorite IDE with the proper arguments or run in on the terminal via:
 
     java com.flurry.MultiDimensionalSudoku <filename>
  
