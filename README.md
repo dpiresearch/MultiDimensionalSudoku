@@ -4,10 +4,14 @@
 
 This code validates if a Sudoku solution passed in via a csv file is valid.
 
+### Video Overview
+
+http://screencast.com/t/ED5l9Q7loE
+
 ### Details
 
 Usage: 
-    Run it in your favorite IDE with the proper arguments or run in on the terminal via:
+    Run it in your favorite IDE with the proper arguments or run it on the terminal via:
 
     java com.flurry.MultiDimensionalSudoku <filename>
  
